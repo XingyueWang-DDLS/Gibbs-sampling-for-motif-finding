@@ -1,6 +1,6 @@
 ﻿﻿# Gibbs sampling for motif finding
 
-实验流程与分析 | by Xingyue Wang
+实验流程与分析 | by Xingyue WANG
 
 ---
  [TOC]
