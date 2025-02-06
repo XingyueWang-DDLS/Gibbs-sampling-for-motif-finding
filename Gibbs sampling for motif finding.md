@@ -416,12 +416,3 @@ ggseqlogo(seq_logo)
 
 + 结果的确定性不高：每次运行结果都不同；且变换motif的长度，得到的结果的差别也非常大。
 
-  [1]: https://i.niupic.com/images/2019/06/29/_214.png
-  [2]: https://i.niupic.com/images/2019/06/29/_226.png
-  [3]: https://i.niupic.com/images/2019/06/29/_227.png
-  [4]: https://i.niupic.com/images/2019/06/29/_228.png
-  [5]: https://i.niupic.com/images/2019/06/29/_229.png
-  [6]: https://i.niupic.com/images/2019/06/29/_230.png
-  [7]: https://i.niupic.com/images/2019/06/30/.png
-  [8]: https://i.niupic.com/images/2019/06/30/_1.png
-  [9]: https://i.niupic.com/images/2019/06/30/_2.png
